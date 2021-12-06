@@ -1,0 +1,110 @@
+.trai {
+    background-color: rgb(104, 158, 219);
+
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    border-style: solid;
+    border-color: skyblue;
+}
+
+.cha {
+    display: flex;
+}
+
+.phai {
+    background-color: lightyellow;
+    border-style: solid;
+    border-color: sandybrown;
+    margin: 20px;
+}
+
+img {
+    border-radius: 50%;
+    border-color: seashell;
+    margin: 20px;
+
+}
+
+.kinhnghiem {
+    margin: 30px;
+    margin-top: 200px;
+}
+
+.thuong {
+    margin-top: 200px;
+    margin-left: 30px;
+}
+
+.edu {
+    margin-left: 30px;
+}
+
+.canhan {
+    margin: 30px;
+}
+
+.goal {
+    margin: 30px;
+
+}
+
+.skill {
+    margin: 30px;
+}
+
+.fix {
+    background-color: lightyellow;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+.trumcuoi {
+    border-style: solid;
+    border-color: sandybrown;
+    margin: 20px;
+}
+
+.lh {
+    text-align: center;
+}
+
+ul.cham {
+
+    list-style-type: none;
+    padding: 0px;
+    margin: 5px;
+    width: 15px;
+
+
+
+}
+ul.icon{
+    list-style-type: none;
+    padding: 0px;
+    margin: 5px;
+  width: 50px;
+}
+.F{
+    width: 50px;
+}
+.IG{
+    width: 50px;
+}
+li.a {
+    background-image: url(picture/star-solid.svg);
+    background-repeat: no-repeat;
+    background-position: 0 5px;
+    padding-left: 15px;
+    padding-top: 5px;
+}
+
+ul.b {
+    list-style: square;
+}
